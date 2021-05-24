@@ -1,2 +1,0 @@
-# Netflix_Proj
-Javascript
